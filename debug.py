@@ -21,6 +21,3 @@ classy Person:
 
 me = Person("Brandon", "Walsh")
 you = Person("Ethan", "Reed")
-
-me.speak()
-you.self.speak
